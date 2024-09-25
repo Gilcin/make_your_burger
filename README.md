@@ -1,29 +1,13 @@
-#  hamburgueria
+## Mount Burger
 
-This template should help get you started developing with Vue 3 in Vite.
+**Projeto de estudo criado com Vue.js**
 
-## Recommended IDE Setup
+Crie o hambúrguer dos seus sonhos! 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Com o Mount Burger, você tem o controle total sobre a criação do seu sanduíche perfeito. Escolha os ingredientes, os molhos e monte o hambúrguer exatamente como você gosta.
 
-## Customize configuration
+**Funcionalidades:**
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+* **Personalização:** Escolha entre uma variedade de ingredientes e molhos para criar um hambúrguer único.
+* **Visualização:** Veja em tempo real como o seu hambúrguer está ficando, com uma interface intuitiva e visualmente atraente.
+* **Pedido:** Finalize seu pedido de forma rápida e fácil, com opções de entrega ou retirada.
